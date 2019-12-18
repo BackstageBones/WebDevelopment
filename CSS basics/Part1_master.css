@@ -1,0 +1,43 @@
+/*
+This is a comment
+*/
+
+/*
+General Form is:
+
+Selected Tag {
+  property: value;
+}
+
+*/
+
+/*Colors can be names, or codes*/
+
+h1{
+  color: purple;
+}
+
+
+p{
+  color: rgb(79, 179, 137);
+}
+
+ul{
+    color: #4F6EB3
+}
+body{
+
+    background-color: url(https://wallpaperaccess.com/rainforest)
+
+}
+div{
+    background: blue;
+    border-color: yellow;
+    border-width: 3px;
+    border-style: dotted;
+
+}
+span{
+    background: red;
+    color: black;
+}
