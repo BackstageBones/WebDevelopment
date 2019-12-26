@@ -1,0 +1,44 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+#first{
+    background-color: #1A1423;
+    /*Top,Right, Bottom, Left*/
+
+
+}
+
+#second{
+    background-color: #29253D;
+
+
+}
+
+#third{
+    background-color: #D88A8A;
+
+}
+
+#fourth{
+    background-color: #F24D63;
+
+}
+#fifth {
+    background-color: #FFDFD3;
+
+}
+
+.mytable{
+
+    margin: auto;
+}
+td{
+    height: 300px;
+    width: 200px;
+    /*Top,Right, Bottom, Left*/
+    border: 6px solid white;
+}
