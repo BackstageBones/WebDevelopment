@@ -20,6 +20,9 @@ body{
 .myclass{
 
     color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 1em;
 
 }
 form{
@@ -33,6 +36,6 @@ form{
 
 }
 #submit{
-    width: 10%;
-    height: 5%;
+    width: 15%;
+    height: 10%;
 }
